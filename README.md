@@ -1,6 +1,6 @@
 # Gerador de Senhas
  
-1 - Faça um clone do repositorio
-2 - depois execute o npm install
-3 - então só abrir o index.html
+1 - Faça um clone do repositorio <br/>
+2 - depois execute o npm install <br/>
+3 - então só abrir o index.html <br/>
 Ou se preferir acesse: https://rdgxd.github.io/GeradorDeSenhas/
